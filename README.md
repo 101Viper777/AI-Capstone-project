@@ -31,7 +31,7 @@ source env/bin/activate
 1mil / 16k = is roughly 60 question/ answer responses
 
 
-The average cost per typical interaction with the GPT Vision model is $0.1655.
+The average cost per typical interaction with the GPT Vision model is $0.1655 USD
 
 so roughly:
 - 1 interaction: $0.1655
