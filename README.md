@@ -10,7 +10,7 @@ git clone [<repository_url>](https://github.com/101Viper777/AI-Capstone-project/
 
 **Activate Python Environment**
 
-Activate the Python environment for Jupyter Notebook:
+Activate the included Python environment for Jupyter Notebook:
 
 ```bash
 source env/bin/activate
