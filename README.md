@@ -41,4 +41,7 @@ so roughly:
 - 50 interactions: $8.2736
 - 100 interactions: $16.5473
 
-its only expensive when reading the image and most of the time they will have writtern work. so to distinguish between writtern and graph im thinking of making it by default use a free ocr model and have the user toggle on when their drawing something, hence using the gpt-vision model when they are drawing only
+it's only expensive when reading the image and most of the time they will have written work. so to distinguish between written and graph I'm thinking of making it by default use a free OCR model and have the user toggle on when they're drawing something, hence using the GPT-vision model when they are drawing only
+
+
+also i dont think we need data collection for the tutor but it will only be for the content generation we need to work this out
