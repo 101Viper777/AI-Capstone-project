@@ -4,7 +4,7 @@
 **Clone Repository**
 
 ```bash
-git clone [<repository_url>](https://github.com/101Viper777/AI-Capstone-project/tree/main)
+git clone https://github.com/101Viper777/AI-Capstone-project/tree/main
 ```
 
 
