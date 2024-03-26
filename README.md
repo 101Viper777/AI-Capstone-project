@@ -45,3 +45,8 @@ it's only expensive when reading the image and most of the time they will have w
 
 
 also i dont think we need data collection for the tutor but it will only be for the content generation we need to work this out
+
+
+
+# costs so far
+openai credit - $8.49
