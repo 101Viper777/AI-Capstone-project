@@ -27,7 +27,7 @@ source env/bin/activate
 
 ## notes
 
-1 chat interaction (1 user and 1 ai message is around 16k tokens
+1 chatgpt vision interaction (1 user and 1 ai message is around 16k tokens
 1mil / 16k = is roughly 60 question/ answer responses
 
 
@@ -48,5 +48,5 @@ also i dont think we need data collection for the tutor but it will only be for 
 
 
 
-# costs so far
+# costs so far (AUD)
 openai credit - $8.49
