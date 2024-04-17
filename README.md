@@ -50,4 +50,4 @@ also i dont think we need data collection for the tutor but it will only be for 
 
 # costs so far (US)
 openai credit - $8.49
-claude - $20
+claude - $20 + 20
